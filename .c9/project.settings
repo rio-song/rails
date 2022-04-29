@@ -40,11 +40,6 @@
         "@first": true
     },
     "workspace": {
-        "@folders": [
-            {
-                "name": "rails",
-                "path": "/rails"
-            }
-        ]
+        "@folders": []
     }
 }
